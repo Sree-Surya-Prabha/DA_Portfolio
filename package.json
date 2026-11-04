@@ -1,0 +1,21 @@
+{
+  "name": "sree-surya-prabha-portfolio",
+  "version": "1.0.0",
+  "description": "Professional Data Analyst Portfolio Website for B V Sree Surya Prabha",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve ."
+  },
+  "keywords": [
+    "data-analyst",
+    "portfolio",
+    "python",
+    "sql",
+    "power-bi",
+    "tableau",
+    "excel",
+    "machine-learning"
+  ],
+  "author": "B V Sree Surya Prabha",
+  "license": "MIT"
+}
